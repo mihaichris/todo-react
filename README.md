@@ -22,8 +22,8 @@ This is a simple TODO application built with Laravel, React, and Inertia.js, sty
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
-    cd your-repository
+    git clone https://github.com/mihaichris/todo-react
+    cd todo-react
     ```
 
 2. **Install PHP dependencies**
